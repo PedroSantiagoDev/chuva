@@ -35,4 +35,5 @@ composer test
 Duas ferramentas vão ser especialmente úteis para você resolver este exercício.
 
 * DOM, para ler o HTML - https://www.php.net/manual/pt_BR/class.domdocument.php
+* DOMPath, para ler e seleciona o HTML - https://www.php.net/manual/en/domxpath.construct.php
 * Spout, para escrever a planilha - https://opensource.box.com/spout/
