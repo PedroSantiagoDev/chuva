@@ -24,6 +24,12 @@ Para rodar o scrapping, rode o seguinte comando:
 composer webscrapping
 ```
 
+Para rodar os testes, rode o seguinte comando:
+
+```
+composer test
+```
+
 ### Dicas de resolução
 
 Duas ferramentas vão ser especialmente úteis para você resolver este exercício.
